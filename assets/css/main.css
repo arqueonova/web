@@ -3709,7 +3709,7 @@
 	}
 
 	#header {
-		background: rgba(0, 0, 0, 0.975);
+		background: rgba(255, 255, 255, 0.975);
 		color: #a6a6a6;
 		cursor: default;
 		height: 3.25em;
@@ -3734,8 +3734,11 @@
 		}
 
 			#header > .logo a {
-				font-size: 1.25em;
-				color: #FFF;
+				font-family: "ITC Bradley Hand", sans-serif;
+				/* font-family: "BradleyHand", sans-serif; */
+				font-weight: "bold";
+				font-size: 1.5em;
+				color: #C30A0F;
 				text-decoration: none;
 			}
 
