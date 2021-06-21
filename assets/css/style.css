@@ -58,8 +58,8 @@ h2 {
 }
 
 .back-to-top:hover {
-  background: #2eafec;
-  color: #fff;
+  background: #eb4;
+  color: #d6111;
 }
 
 .back-to-top.active {
@@ -80,7 +80,7 @@ h2 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #fff;
+  background: #ccc9;
   overflow-y: auto;
 }
 
@@ -124,7 +124,7 @@ h2 {
 }
 
 #header .profile .social-links a:hover {
-  background: #eb4;
+  background: #fff;
   color: #B40D15;
   text-decoration: none;
 }
@@ -179,7 +179,7 @@ h2 {
 
 .nav-menu a:hover, .nav-menu .active, .nav-menu li:hover > a {
   text-decoration: none;
-  color: #fff;
+  color: #eb4;
 }
 
 .nav-menu a:hover i, .nav-menu .active i, .nav-menu li:hover > a i {
@@ -196,8 +196,8 @@ h2 {
   font-size: 24px;
   transition: all 0.4s;
   outline: none !important;
-  background-color: #eb4;
-  color: #fff;
+  background-color: #fff;
+  color: #eb4;
   width: 40px;
   height: 40px;
   display: inline-flex;
@@ -317,7 +317,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #eb4;
+  background: #fff;
   bottom: 0;
   left: 0;
 }
